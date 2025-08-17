@@ -53,10 +53,12 @@ Dadurch hat das Modell gelernt Motor ist meistens gesund
 Manche Korrelationen wie Temperatur ergeben garkein Sinn durch hohe Temperaturen gibt es sehr schnell Motorschaden.  
 
 ## What can be improved Ideen für die Zukunft
-Mehr Modelle ausprobieren wie XGBoost 
-Größeren Datensatz verwenden ich brauche viel mehr ungesunde Beispiele damit das Modell besser lernt und ungesunde Motoren besser erkennt
-Jetzige aufteilung der Daten ist 63% gesund 37% ungesund
-Eine **App oder API** bauen die live eine Diagnose macht von grade neuen erstellten Daten 
+Mehr Modelle ausprobieren wie XGBoost.
+
+Größeren Datensatz verwenden ich brauche viel mehr ungesunde Beispiele damit das Modell besser lernt und ungesunde Motoren besser erkennt.
+
+Jetzige aufteilung der Daten ist 63% gesund 37% ungesund.
+Eine **App oder API** bauen die live eine Diagnose macht von grade neuen erstellten Daten.
 
 ##  Conclusion:
 Dieses Projekt war mein ersterSchritt in Machine Learning.  
