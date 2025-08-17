@@ -48,6 +48,7 @@ Ungesunde Motoren schlecht erkannt
 ## Probleme:
 **Daten unausgeglichen** Es gibt fast doppelt so viel gesunde Motore als ungesunde.  
 Dadurch hat das Modell gelernt Motor ist meistens gesund
+
 **Genauigkeit nur 65 %** mehr Daten oder bessere Features gebraucht.  
 Manche Korrelationen wie Temperatur ergeben garkein Sinn durch hohe Temperaturen gibt es sehr schnell Motorschaden.  
 
