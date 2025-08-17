@@ -5,7 +5,7 @@ Ich habe dieses Projekt gemacht, um Machine Learning zu lernen und praktisch aus
 Die Idee Kann man mit Sensordaten vorhersagen ob ein Motor gesund oder ungesund ist?  
 Alles sollte in der Notebook kommentiert sein.
 
-Es ist kein Industrieprojekt – sondern ein **Lernprojekt**.  
+Es ist kein Industrieprojekt sondern ein **Lernprojekt**.  
 Mir war wichtig, eine komplette ML-Pipeline von vorne bis hinten zu verstehen:  
 Daten anschauen -> Muster und Zusammenhänge finden -> Ein Modell trainieren  -> Am Ende auswerten ob das Modell überhaupt sinnvoll ist  
 
@@ -32,20 +32,20 @@ https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestC
 Daten: Grundlegende Statistiken und Verteilungen angesehen  
 Heatmap erstellt um Zusammenhänge zwischen Sensorwerten zu finden  
 
-Vorbereitung
+Vorbereitung:
 Ziel ist Engine Condition (0 = ungesund, 1 = gesund) zu vorhersagen  
 Train/Test Split (85 % / 15 %)  
 
-Training 
+Training:
 Random Forest mit 500 Bäumen  
 class_weight="balanced" um die Daten auszugleichen  
 
-**Evaluation**
+**Evaluation**:
 Accuracy ~65 %  
 Gesunde Motoren gut erkannt  
 Ungesunde Motoren schlecht erkannt  
 
-## Probleme
+## Probleme:
 **Daten unausgeglichen** Es gibt fast doppelt so viel gesunde Motore als ungesunde.  
 Dadurch hat das Modell gelernt Motor ist meistens gesund
 **Genauigkeit nur 65 %** mehr Daten oder bessere Features gebraucht.  
@@ -57,7 +57,7 @@ Größeren Datensatz verwenden ich brauche viel mehr ungesunde Beispiele damit d
 Jetzige aufteilung der Daten ist 63% gesund 37% ungesund
 Eine **App oder API** bauen die live eine Diagnose macht von grade neuen erstellten Daten 
 
-##  Conclusion
+##  Conclusion:
 Dieses Projekt war mein ersterSchritt in Machine Learning.  
 Das Modell ist mit 65% genauigkeit noch weit weg von praxisreif aber
 Ich habe verstanden wie eine ML-Pipeline funktioniert.  
