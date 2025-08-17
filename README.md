@@ -58,11 +58,11 @@ Mehr Modelle ausprobieren wie XGBoost.
 Größeren Datensatz verwenden ich brauche viel mehr ungesunde Beispiele damit das Modell besser lernt und ungesunde Motoren besser erkennt.
 
 Jetzige aufteilung der Daten ist 63% gesund 37% ungesund.
+
 Eine **App oder API** bauen die live eine Diagnose macht von grade neuen erstellten Daten.
 
 ##  Conclusion:
-Dieses Projekt war mein ersterSchritt in Machine Learning.  
+Dieses Projekt war mein erster Schritt in Machine Learning.  
 Das Modell ist mit 65% genauigkeit noch weit weg von praxisreif aber
 Ich habe verstanden wie eine ML-Pipeline funktioniert.  
-Ich weiß wo die Schwächen sind.  
-und viele ideen was man mit ML machen kann. 
+Ich weiß wo die Schwächen sind und habe viele ideen was man mit ML so machen kann. 
