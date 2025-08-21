@@ -63,6 +63,4 @@ Eine **App oder API** bauen die live eine Diagnose macht von grade neuen erstell
 
 ##  Conclusion:
 Dieses Projekt war mein erster Schritt in Machine Learning.  
-Das Modell ist mit 65% genauigkeit noch weit weg von praxisreif aber
-Ich habe verstanden wie eine ML-Pipeline funktioniert.  
-Ich weiß wo die Schwächen sind und habe viele ideen was man mit ML so machen kann. 
+Das Modell ist mit 65% genauigkeit noch weit weg von praxisreif
